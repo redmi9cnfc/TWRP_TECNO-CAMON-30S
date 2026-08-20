@@ -5,7 +5,7 @@ This project is currently under development.
 # 📱 Device
 - **Device:** TECNO Camon 30S
 - **Codename:** CLA5
-- **Android:** 14 / Android 15 environment
+- **Android:** Android 15
 - **Platform:** MediaTek
 - **Recovery:** TWRP
 - **Status:** 🟡 Work in Progress
