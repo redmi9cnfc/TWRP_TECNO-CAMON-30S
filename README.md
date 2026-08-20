@@ -311,6 +311,7 @@ Any suggestions, patches, configuration changes, or debugging instructions are v
 # ❤️ Credits
 Thanks to everyone working on:
 - [TWRP](https://twrp.me/)
+- KSN522
 - Android custom recoveries
 - MediaTek development
 - Linux kernel development
